@@ -14,13 +14,16 @@ Kursansvarig: [Hugo Strand](https://www.oru.se/personal/hugo_strand)
   - [Föreläsning 1: Programmeringskocept](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/F%C3%B6rel%C3%A4sning1.ipynb)
   - [Laboration 1: Matlab On-Ramp](https://se.mathworks.com/learn/tutorials/matlab-onramp.html)
 
+
 - Onsdag 25 Augusti, 13.15 - 15.00
-  - Föreläsning 2
+  - [Föreläsning 2: Procedurell programmering](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/F%C3%B6rel%C3%A4sning2.ipynb
   - Laboration 2
+
 
 - Torsdag 26 Augusti, 13.15 - 15.00
   - Föreläsning 3
   - Laboration 3
+
 
 - Fredag 27 Augusti, 13.15 - 15.00
   - Föreläsning 4
