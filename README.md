@@ -10,18 +10,18 @@ Kursansvarig: [Hugo Strand](https://www.oru.se/personal/hugo_strand)
 
 ## Kurstillfällen
 
-### Tidsdag 24 Augusti, 13.15 - 15.00
+Tidsdag 24 Augusti, 13.15 - 15.00
 - [Föreläsning 1: Programmeringskocept](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/F%C3%B6rel%C3%A4sning1.ipynb)
 - [Laboration 1: Matlab On-Ramp](https://se.mathworks.com/learn/tutorials/matlab-onramp.html)
 
-### Onsdag 25 Augusti, 13.15 - 15.00
+Onsdag 25 Augusti, 13.15 - 15.00
 - [Föreläsning 2: Procedurell programmering](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/F%C3%B6rel%C3%A4sning2.ipynb)
 - [Laboration 2: Rekursion och sorteringsalgoritmer](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/Laboration2.ipynb)
 
-### Torsdag 26 Augusti, 13.15 - 15.00
-- [Föreläsning 3: Visualisering programmering](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/F%C3%B6rel%C3%A4sning3.ipynb)
+Torsdag 26 Augusti, 13.15 - 15.00
+- [Föreläsning 3: Visualisering](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/F%C3%B6rel%C3%A4sning3.ipynb)
 - [Laboration 3: Rot-lösare och kurvanpassning](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/Laboration3.ipynb)
 
-### Fredag 27 Augusti, 13.15 - 15.00
+Fredag 27 Augusti, 13.15 - 15.00
 - [Föreläsning 4: Multi-dimensionella arrayer](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/F%C3%B6rel%C3%A4sning4.ipynb)
 - [Laboration 4: Fraktaler](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/Laboration4.ipynb)
