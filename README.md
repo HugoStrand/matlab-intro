@@ -16,15 +16,15 @@ Kursansvarig: [Hugo Strand](https://www.oru.se/personal/hugo_strand)
 
 
 - Onsdag 25 Augusti, 13.15 - 15.00
-  - [Föreläsning 2: Procedurell programmering](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/F%C3%B6rel%C3%A4sning2.ipynb
-  - Laboration 2
+  - [Föreläsning 2: Procedurell programmering](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/F%C3%B6rel%C3%A4sning2.ipynb)
+  - Laboration 2: Rekursion och sorteringsalgoritmer
 
 
 - Torsdag 26 Augusti, 13.15 - 15.00
-  - Föreläsning 3
-  - Laboration 3
+  - Föreläsning 3: Visualisering
+  - Laboration 3: Rot-lösare och kurvanpassning
 
 
 - Fredag 27 Augusti, 13.15 - 15.00
-  - Föreläsning 4
-  - Laboration 4
+  - Föreläsning 4: Multi-dimensionella arrayer
+  - Laboration 4: Fraktaler
