@@ -6,7 +6,7 @@ Sal: [T221 på andra våningen i Teknikhuset](https://use.mazemap.com/#v=1&cente
 
 Mjukvara: [MATLAB för studenter vid ORU](https://www.oru.se/english/study/student-services/it-and-printing/it/software/matlab/)
 
-Kursansvarig: [Hugo Strand](https://www.oru.se/personal/hugo_strand)
+Lärare: [Hugo Strand](https://www.oru.se/personal/hugo_strand)
 
 ## Kurstillfällen
 
