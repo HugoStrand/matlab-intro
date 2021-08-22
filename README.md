@@ -12,16 +12,16 @@ Lärare: [Hugo Strand](https://www.oru.se/personal/hugo_strand)
 
 Tidsdag 24 Augusti, 13.15 - 15.00
 - [Föreläsning 1: Programmeringskoncept](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/F%C3%B6rel%C3%A4sningar/F%C3%B6rel%C3%A4sning1.ipynb)
-- [Laboration 1: Matlab On-Ramp](https://se.mathworks.com/learn/tutorials/matlab-onramp.html)
+- [Övning 1: Matlab On-Ramp](https://se.mathworks.com/learn/tutorials/matlab-onramp.html)
 
 Onsdag 25 Augusti, 13.15 - 15.00
 - [Föreläsning 2: Procedurell programmering](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/F%C3%B6rel%C3%A4sningar/F%C3%B6rel%C3%A4sning2.ipynb)
-- [Laboration 2: Sorteringsalgoritmer](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/%C3%96vningar/%C3%96vning2.ipynb)
+- [Övning 2: Sorteringsalgoritmer](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/%C3%96vningar/%C3%96vning2.ipynb)
 
 Torsdag 26 Augusti, 13.15 - 15.00
 - [Föreläsning 3: Visualisering](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/F%C3%B6rel%C3%A4sningar/F%C3%B6rel%C3%A4sning3.ipynb)
-- [Laboration 3: Rot-lösar-algoritmer](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/%C3%96vningar/%C3%96vning3.ipynb)
+- [Övning 3: Rot-lösar-algoritmer](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/%C3%96vningar/%C3%96vning3.ipynb)
 
 Fredag 27 Augusti, 13.15 - 15.00
 - [Föreläsning 4: Multi-dimensionella arrayer](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/F%C3%B6rel%C3%A4sningar/F%C3%B6rel%C3%A4sning4.ipynb)
-- [Laboration 4: Fraktaler](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/%C3%96vningar/%C3%96vning4.ipynb)
+- [Övning 4: Fraktaler](https://nbviewer.jupyter.org/urls/git.oru.se/hosd/matlab-intro-ht21/-/raw/master/%C3%96vningar/%C3%96vning4.ipynb)
